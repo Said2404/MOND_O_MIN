@@ -34,13 +34,14 @@ This project aims to create a billing management application tailored to the spe
 
 ## 📸 Preview
 ### Test Illustration
-![Test Illustration](./docs/img/tests-illustration.png)
+![Test Illustration](https://said2404.github.io/MOND_O_MIN/img/tests-illustration.png)
 
 ---
 
 ## 🎥 Demo Video
-A video demonstration of the application is available:  
+A video demonstration of the application is available here:  
 👉 [Watch the Demo](https://said2404.github.io/MOND_O_MIN/)
+
 
 ---
 
