@@ -1,6 +1,3 @@
-Voici le **README.md** mis à jour avec les technologies correctes :
-
----
 
 # MOND O' MIN - Billing Management 💧
 
