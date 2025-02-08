@@ -1,0 +1,1 @@
+{"version":3,"file":"facturations.js","sourceRoot":"","sources":["../src/controleur/facturations.ts"],"names":[],"mappings":";AAAA,0GAA0G;AAC1G,qDAAqD;AACrD,8FAA8F;AAE9F,2BAA2B;AAC3B,MAAM,eAAe;IAChB,IAAI;QACH,QAAQ,CAAC,IAAI,GAAG,oBAAoB,CAAC;IACtC,CAAC;CACD;AAED,MAAM,eAAe,GAAG,IAAI,eAAe,CAAC;AAE5C,eAAe,CAAC,IAAI,EAAE,CAAC"}
