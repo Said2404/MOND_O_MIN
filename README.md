@@ -51,12 +51,6 @@ A video demonstration of the application is available:
 
 ---
 
-## 📜 Documentation
-1. Full documentation and the video demo are available on GitHub Pages:  
-   👉 [Documentation and Demo](https://said2404.github.io/MOND_O_MIN/)
-
----
-
 ## ✍️ Author
 Project developed by AIT BAHA Said, AIT BAMMOU Zain-Alabaidine and CHOLLET Thomas as part of a university project.
 
