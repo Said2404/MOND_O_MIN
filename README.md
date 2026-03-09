@@ -1,59 +1,55 @@
+# MOND O' MIN - Gestion de facturation 💧
 
-# MOND O' MIN - Billing Management 💧
-
-An application developed for **MOND O’ MIN**, a company specializing in premium mineral water distribution.
-
----
-
-## 🌟 Project Overview
-This project aims to create a billing management application tailored to the specific needs of **MOND O’ MIN**, including:
-- **Client Management**: Store client information such as identity, address, and other details.
-- **Invoice Creation**:
-  - Automated generation of invoice numbers.
-  - Validation of billing dates.
-- **Product Management**:
-  - Input product details (code, label, unit price, quantity, packaging).
-  - Automated calculation of subtotals and discounts.
-- **Invoice Management**:
-  - View, edit, and delete invoices.
-  - Display invoice details, including total amounts (with and without discounts).
+Application développée pour **MOND O’ MIN**, une entreprise spécialisée dans la distribution d’eau minérale premium.
 
 ---
 
-## 📋 Key Features
-1. **Automated Calculations**:
-   - Automatic generation of amounts, taxes, and discounts.
-2. **Delivery Packages**:
-   - Choose a package and calculate the final amount.
-3. **Comprehensive Invoice Management**:
-   - View, modify, and delete invoices.
-4. **Thorough Testing**:
-   - Includes acceptance tests and business rule validation.
+## 🌟 Présentation du projet
+Ce projet a pour objectif de créer une application de gestion de facturation adaptée aux besoins spécifiques de **MOND O’ MIN**, notamment :
+
+- **Gestion des clients** : enregistrement des informations client telles que l’identité, l’adresse et d’autres données utiles.
+- **Création de factures** :
+  - génération automatique des numéros de facture ;
+  - validation des dates de facturation.
+- **Gestion des produits** :
+  - saisie des informations produit (code, libellé, prix unitaire, quantité, conditionnement) ;
+  - calcul automatique des sous-totaux et des remises.
+- **Gestion des factures** :
+  - consultation, modification et suppression des factures ;
+  - affichage des détails de facture, y compris les montants totaux (avec et sans remise).
 
 ---
 
-## 📸 Preview
-### Test Illustration
-![Test Illustration](https://said2404.github.io/MOND_O_MIN/img/tests-illustration.jpg)
-
-
----
-
-## 🎥 Demo Video
-A video demonstration of the application is available here:  
-👉 [Watch the Demo](https://said2404.github.io/MOND_O_MIN/)
-
+## 📋 Fonctionnalités principales
+1. **Calculs automatisés** :
+   - génération automatique des montants, taxes et remises.
+2. **Conditionnements de livraison** :
+   - choix d’un conditionnement et calcul du montant final.
+3. **Gestion complète des factures** :
+   - consultation, modification et suppression des factures.
+4. **Tests approfondis** :
+   - présence de tests d’acceptation et validation des règles métier.
 
 ---
 
-## 🚀 Technologies Used
-- **Java**: For back-end and logic implementation.
-- **TypeScript**: For a strongly typed development environment.
-- **HTML / CSS**: For the structure and styling of the user interface.
+## 📸 Aperçu
+### Illustration des tests
+![Illustration des tests](https://said2404.github.io/MOND_O_MIN/img/tests-illustration.jpg)
 
 ---
 
-## ✍️ Author
-Project developed by AIT BAHA Said, AIT BAMMOU Zain-Alabaidine and CHOLLET Thomas as part of a university project.
+## 🎥 Vidéo de démonstration
+Une vidéo de démonstration de l’application est disponible ici :  
+👉 [Voir la démo](https://said2404.github.io/MOND_O_MIN/)
 
+---
 
+## 🚀 Technologies utilisées
+- **Java** : pour le back-end et l’implémentation de la logique métier.
+- **TypeScript** : pour un environnement de développement fortement typé.
+- **HTML / CSS** : pour la structure et le style de l’interface utilisateur.
+
+---
+
+## ✍️ Auteur
+Projet développé par AIT BAHA Said, AIT BAMMOU Zain-Alabaidine et CHOLLET Thomas dans le cadre d’un projet universitaire.
